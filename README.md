@@ -8,7 +8,7 @@ Hi, I am a passionate **Machine Learning Engineer** interested in anything aroun
 
 **Technical skills**
 
-![skills](./mspp_technical_skills)
+![skills](./mspp_technical_skills.png)
  
 📫 **Contact me**
 
